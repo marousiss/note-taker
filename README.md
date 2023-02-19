@@ -1,24 +1,22 @@
 # Note Taker
 
-
-
 ## Description
 
-This application is a note taker application that is being used to write and save notes. It uses express.js back-end framework to build APIs render html pages and to retrieve, post, and delete data from/to a local json file.
-
-Deployed app link:  https://gruesome-corpse-84474.herokuapp.com/
+A note taker web application to write, save and delete notes. It uses express.js and node.js.
 
 
 ## Installation
 
 
-Please run `npm i` to install dependencies.
+Run `npm i` to install dependencies and `npm start` to start the app.
+
 
 
 ## Usage
 
+[Note Taker link](https://gruesome-corpse-84474.herokuapp.com/)
 
-To use this application please run `npm start` in the command line or use the deployed link https://gruesome-corpse-84474.herokuapp.com/.
+Screenshots:
 
 ![screenshot-01](./assets/images/screenshot-01.png)
 ![screenshot-02](./assets/images/screenshot-02.png)
@@ -29,10 +27,10 @@ To use this application please run `npm start` in the command line or use the de
 ## Credit
 
 
-Starter code: https://github.com/coding-boot-camp/miniature-eureka
+[Starter code](https://github.com/coding-boot-camp/miniature-eureka) 
 
 
-## Licence
+## License
 
 
-Please refer to the LICENCE in the repo
+Please refer to the LICENSE in the repo.
